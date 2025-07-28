@@ -83,8 +83,8 @@
 <section id="contact">
   <h2 class="section-title">Contact Us</h2>
   <p>Interested in our services? Get in touch!</p>
-  <p>Email: info@ourcompany.com</p>
-  <p>Phone: +123-456-7890</p>
+  <p>Email: simhamsimham122@gmail.com</p>
+  <p>Phone: +91 9390135462</p>
 </section>
 
 <footer>
@@ -93,6 +93,18 @@
 
 </body>
 </html>
-<img src="images/image1.jpg" alt="Gas Pipeline" width="300">
-<img src="images/image2.jpg" alt="Cloth Hangers" width="300">
+<section id="gallery">
+  <h2 class="section-title">Our Products</h2>
+  <div style="display: flex; gap: 20px; flex-wrap: wrap;">
+    <div>
+      <img src="image/image1.jpg" alt="Gas Pipeline" width="300">
+      <p>High-quality gas pipeline installation</p>
+    </div>
+    <div>
+      <img src="image/image2.jpg" alt="Cloth Hanger" width="300">
+      <p>Durable cloth hangers for all types</p>
+    </div>
+  </div>
+</section>
+
 
